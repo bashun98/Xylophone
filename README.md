@@ -1,7 +1,5 @@
 # Xylophone #
 
-## What you will create
-
 My first musical instrument! 
 
 
